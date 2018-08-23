@@ -1,0 +1,17 @@
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\bin\Debug\netcoreapp2.1\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.deps.json
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\bin\Debug\netcoreapp2.1\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.runtimeconfig.json
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\bin\Debug\netcoreapp2.1\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.runtimeconfig.dev.json
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\bin\Debug\netcoreapp2.1\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.dll
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\bin\Debug\netcoreapp2.1\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.pdb
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\obj\Debug\netcoreapp2.1\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.csprojAssemblyReference.cache
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\obj\Debug\netcoreapp2.1\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\obj\Debug\netcoreapp2.1\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\obj\Debug\netcoreapp2.1\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.AssemblyInfo.cs
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\obj\Debug\netcoreapp2.1\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.dll
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\obj\Debug\netcoreapp2.1\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.pdb
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\bin\Debug\netcoreapp2.1\Jpmorgan-TrifonTest.SuperSimpleStocks.dll
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\bin\Debug\netcoreapp2.1\Jpmorgan-TrifonTest.SuperSimpleStocks.pdb
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Jpmorgan-TrifonTest\Jpmorgan_TrifonTest.SuperSimpleStocks.Test\obj\Debug\netcoreapp2.1\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.csproj.CopyComplete

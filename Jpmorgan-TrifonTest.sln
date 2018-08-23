@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jpmorgan-TrifonTest.SuperSimpleStocks", "Jpmorgan-TrifonTest.SuperSimpleStocks\Jpmorgan-TrifonTest.SuperSimpleStocks.csproj", "{917CF050-5A16-453F-BE41-9B7563154858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jpmorgan_TrifonTest.SuperSimpleStocks.Test", "Jpmorgan_TrifonTest.SuperSimpleStocks.Test\Jpmorgan_TrifonTest.SuperSimpleStocks.Test.csproj", "{1E3F1138-8F16-4907-99F1-EF197EE3ADC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{917CF050-5A16-453F-BE41-9B7563154858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917CF050-5A16-453F-BE41-9B7563154858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917CF050-5A16-453F-BE41-9B7563154858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917CF050-5A16-453F-BE41-9B7563154858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E3F1138-8F16-4907-99F1-EF197EE3ADC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3F1138-8F16-4907-99F1-EF197EE3ADC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3F1138-8F16-4907-99F1-EF197EE3ADC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3F1138-8F16-4907-99F1-EF197EE3ADC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4EF3D2-5CD8-4B52-9FAE-405ED5364F86}
+	EndGlobalSection
+EndGlobal
